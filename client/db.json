@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "username": "CT",
+      "fullname": "Cumali",
+      "password": "U2FsdGVkX18MIEj/1zzdpu5tLN7fZ7W42eQg+SUI1EE=",
+      "id": 1
+    },
+    {
+      "username": "MÇ",
+      "fullname": "Mehmet",
+      "password": "U2FsdGVkX19i5f58pJEGcWF+UrRwJe9cqGxkCR5JXf8=",
+      "id": 2
+    }
+  ],
+  "bookmarks": [],
+  "categories": []
+}
